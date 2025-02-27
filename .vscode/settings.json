@@ -1,0 +1,6 @@
+{
+    "cmake.configureArgs": [
+        "-DCMAKE_PREFIX_PATH=~/Qt/6.7.2/macos"
+    ],
+    "cmake.buildDirectory": "${workspaceFolder}/../qt-test-build"
+}
